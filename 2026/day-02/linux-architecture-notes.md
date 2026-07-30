@@ -16,7 +16,9 @@ ls a
 cd
 top (shows the top process along with process states, memory and other things as well.)
 ps a (shows process and the process state)
-cd ~**
+cd
+sudo
+systemctl~**
 
 Keep it short and practical (under 1 page)
 Use bullet points and short headings
